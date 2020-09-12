@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1217b08f7aa101e8641d837d0d941be4",
+    "revision": "4d3fb78e86244e11b81baa035326c418",
     "url": "/Client-Side-Basketball-Website/index.html"
   },
   {
-    "revision": "5d149865926410aeeb6b",
+    "revision": "c52e2125e13f7bdb7d2e",
     "url": "/Client-Side-Basketball-Website/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "c12bc335f52c5279e49a",
+    "revision": "7766b362230d9806aabc",
     "url": "/Client-Side-Basketball-Website/static/css/main.85b3117e.chunk.css"
   },
   {
-    "revision": "5d149865926410aeeb6b",
-    "url": "/Client-Side-Basketball-Website/static/js/2.731d6390.chunk.js"
+    "revision": "c52e2125e13f7bdb7d2e",
+    "url": "/Client-Side-Basketball-Website/static/js/2.f4fff010.chunk.js"
   },
   {
     "revision": "77e7f328dacc981fca681ee4ae94d669",
-    "url": "/Client-Side-Basketball-Website/static/js/2.731d6390.chunk.js.LICENSE.txt"
+    "url": "/Client-Side-Basketball-Website/static/js/2.f4fff010.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c12bc335f52c5279e49a",
-    "url": "/Client-Side-Basketball-Website/static/js/main.15ac3346.chunk.js"
+    "revision": "7766b362230d9806aabc",
+    "url": "/Client-Side-Basketball-Website/static/js/main.2205a068.chunk.js"
   },
   {
     "revision": "f41bfc67cfca36d93e00",

@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Client-Side-Basketball-Website/static/css/main.85b3117e.chunk.css",
-    "main.js": "/Client-Side-Basketball-Website/static/js/main.b605bb6c.chunk.js",
-    "main.js.map": "/Client-Side-Basketball-Website/static/js/main.b605bb6c.chunk.js.map",
+    "main.js": "/Client-Side-Basketball-Website/static/js/main.2b3715fb.chunk.js",
+    "main.js.map": "/Client-Side-Basketball-Website/static/js/main.2b3715fb.chunk.js.map",
     "runtime-main.js": "/Client-Side-Basketball-Website/static/js/runtime-main.332527f2.js",
     "runtime-main.js.map": "/Client-Side-Basketball-Website/static/js/runtime-main.332527f2.js.map",
     "static/css/2.4707e12a.chunk.css": "/Client-Side-Basketball-Website/static/css/2.4707e12a.chunk.css",
-    "static/js/2.f4fff010.chunk.js": "/Client-Side-Basketball-Website/static/js/2.f4fff010.chunk.js",
-    "static/js/2.f4fff010.chunk.js.map": "/Client-Side-Basketball-Website/static/js/2.f4fff010.chunk.js.map",
+    "static/js/2.ee35dd28.chunk.js": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js",
+    "static/js/2.ee35dd28.chunk.js.map": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js.map",
     "index.html": "/Client-Side-Basketball-Website/index.html",
-    "precache-manifest.3ed73845a1f5d51b8c9c6557a6fa8ff8.js": "/Client-Side-Basketball-Website/precache-manifest.3ed73845a1f5d51b8c9c6557a6fa8ff8.js",
+    "precache-manifest.c0a81888a05de892a1c5b35c6032ea14.js": "/Client-Side-Basketball-Website/precache-manifest.c0a81888a05de892a1c5b35c6032ea14.js",
     "service-worker.js": "/Client-Side-Basketball-Website/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/Client-Side-Basketball-Website/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.85b3117e.chunk.css.map": "/Client-Side-Basketball-Website/static/css/main.85b3117e.chunk.css.map",
-    "static/js/2.f4fff010.chunk.js.LICENSE.txt": "/Client-Side-Basketball-Website/static/js/2.f4fff010.chunk.js.LICENSE.txt",
+    "static/js/2.ee35dd28.chunk.js.LICENSE.txt": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js.LICENSE.txt",
     "static/media/Navbar.css": "/Client-Side-Basketball-Website/static/media/EqualizeRegular-xXjr.9a2b22d0.ttf",
     "static/media/login.css": "/Client-Side-Basketball-Website/static/media/OldSport02AthleticNcv-E0gj.3c8d73b6.ttf",
     "static/media/Main.css": "/Client-Side-Basketball-Website/static/media/OpenSans-ExtraBold-webfont.c6e54a05.ttf",
@@ -73,8 +73,8 @@
   "entrypoints": [
     "static/js/runtime-main.332527f2.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.f4fff010.chunk.js",
+    "static/js/2.ee35dd28.chunk.js",
     "static/css/main.85b3117e.chunk.css",
-    "static/js/main.b605bb6c.chunk.js"
+    "static/js/main.2b3715fb.chunk.js"
   ]
 }

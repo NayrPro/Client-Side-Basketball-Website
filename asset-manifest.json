@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Client-Side-Basketball-Website/static/css/main.85b3117e.chunk.css",
-    "main.js": "/Client-Side-Basketball-Website/static/js/main.2b3715fb.chunk.js",
-    "main.js.map": "/Client-Side-Basketball-Website/static/js/main.2b3715fb.chunk.js.map",
+    "main.css": "/Client-Side-Basketball-Website/static/css/main.716b2a39.chunk.css",
+    "main.js": "/Client-Side-Basketball-Website/static/js/main.668aabef.chunk.js",
+    "main.js.map": "/Client-Side-Basketball-Website/static/js/main.668aabef.chunk.js.map",
     "runtime-main.js": "/Client-Side-Basketball-Website/static/js/runtime-main.332527f2.js",
     "runtime-main.js.map": "/Client-Side-Basketball-Website/static/js/runtime-main.332527f2.js.map",
     "static/css/2.4707e12a.chunk.css": "/Client-Side-Basketball-Website/static/css/2.4707e12a.chunk.css",
     "static/js/2.ee35dd28.chunk.js": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js",
     "static/js/2.ee35dd28.chunk.js.map": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js.map",
     "index.html": "/Client-Side-Basketball-Website/index.html",
-    "precache-manifest.c0a81888a05de892a1c5b35c6032ea14.js": "/Client-Side-Basketball-Website/precache-manifest.c0a81888a05de892a1c5b35c6032ea14.js",
+    "precache-manifest.1e969a7325f0c470ea918ee0054866ad.js": "/Client-Side-Basketball-Website/precache-manifest.1e969a7325f0c470ea918ee0054866ad.js",
     "service-worker.js": "/Client-Side-Basketball-Website/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/Client-Side-Basketball-Website/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.85b3117e.chunk.css.map": "/Client-Side-Basketball-Website/static/css/main.85b3117e.chunk.css.map",
+    "static/css/main.716b2a39.chunk.css.map": "/Client-Side-Basketball-Website/static/css/main.716b2a39.chunk.css.map",
     "static/js/2.ee35dd28.chunk.js.LICENSE.txt": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js.LICENSE.txt",
     "static/media/Navbar.css": "/Client-Side-Basketball-Website/static/media/EqualizeRegular-xXjr.9a2b22d0.ttf",
     "static/media/login.css": "/Client-Side-Basketball-Website/static/media/OldSport02AthleticNcv-E0gj.3c8d73b6.ttf",
     "static/media/Main.css": "/Client-Side-Basketball-Website/static/media/OpenSans-ExtraBold-webfont.c6e54a05.ttf",
     "static/media/about.css": "/Client-Side-Basketball-Website/static/media/about.f76c70c4.jpg",
-    "static/media/Main-sections.css": "/Client-Side-Basketball-Website/static/media/street_game.66a925c0.jpg",
+    "static/media/Main-sections.css": "/Client-Side-Basketball-Website/static/media/street_game.44cac923.webp",
     "static/media/course1.jpg": "/Client-Side-Basketball-Website/static/media/course1.f9716526.jpg",
     "static/media/courses.css": "/Client-Side-Basketball-Website/static/media/courses.ffaa70ae.jpg",
     "static/media/gif1.jpg": "/Client-Side-Basketball-Website/static/media/gif1.0e8b9501.jpg",
@@ -51,7 +51,7 @@
     "static/media/gif8.gif": "/Client-Side-Basketball-Website/static/media/gif8.db199eae.gif",
     "static/media/gif9.jpg": "/Client-Side-Basketball-Website/static/media/gif9.66fa82af.jpg",
     "static/media/gif9.gif": "/Client-Side-Basketball-Website/static/media/gif9.dbe5f8aa.gif",
-    "static/media/home.jpg": "/Client-Side-Basketball-Website/static/media/home.95da8175.jpg",
+    "static/media/home.webp": "/Client-Side-Basketball-Website/static/media/home.080022a9.webp",
     "static/media/lorem (1).jpg": "/Client-Side-Basketball-Website/static/media/lorem (1).2a076a1f.jpg",
     "static/media/lorem (2).jpg": "/Client-Side-Basketball-Website/static/media/lorem (2).b3f7b680.jpg",
     "static/media/lorem (3).jpg": "/Client-Side-Basketball-Website/static/media/lorem (3).6b3eaf6f.jpg",
@@ -66,7 +66,7 @@
     "static/media/lorem8.jpg": "/Client-Side-Basketball-Website/static/media/lorem8.bef4aded.jpg",
     "static/media/lorem9.jpg": "/Client-Side-Basketball-Website/static/media/lorem9.e1d0bbde.jpg",
     "static/media/news.css": "/Client-Side-Basketball-Website/static/media/news.a8000c09.jpg",
-    "static/media/Main-info.css": "/Client-Side-Basketball-Website/static/media/stadium.cbc5343f.jpg",
+    "static/media/Main-info.css": "/Client-Side-Basketball-Website/static/media/stadium.b7e955cb.webp",
     "static/media/students.jpg": "/Client-Side-Basketball-Website/static/media/students.56e7705d.jpg",
     "static/media/videos.jpg": "/Client-Side-Basketball-Website/static/media/videos.b0f0d42b.jpg"
   },
@@ -74,7 +74,7 @@
     "static/js/runtime-main.332527f2.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.ee35dd28.chunk.js",
-    "static/css/main.85b3117e.chunk.css",
-    "static/js/main.2b3715fb.chunk.js"
+    "static/css/main.716b2a39.chunk.css",
+    "static/js/main.668aabef.chunk.js"
   ]
 }

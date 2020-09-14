@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43789788a9e79ef0c81b985a5de9ec09",
+    "revision": "bbee9c9d270f6c231d155b5d9900d1e8",
     "url": "/Client-Side-Basketball-Website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Client-Side-Basketball-Website/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "b2c8532cee0108e1e8fa",
-    "url": "/Client-Side-Basketball-Website/static/css/main.85b3117e.chunk.css"
+    "revision": "75ba79625efade0b7775",
+    "url": "/Client-Side-Basketball-Website/static/css/main.716b2a39.chunk.css"
   },
   {
     "revision": "a6e8e3f8868273d02515",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2c8532cee0108e1e8fa",
-    "url": "/Client-Side-Basketball-Website/static/js/main.2b3715fb.chunk.js"
+    "revision": "75ba79625efade0b7775",
+    "url": "/Client-Side-Basketball-Website/static/js/main.668aabef.chunk.js"
   },
   {
     "revision": "f41bfc67cfca36d93e00",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Client-Side-Basketball-Website/static/media/about.f76c70c4.jpg"
   },
   {
-    "revision": "8be8053cd0783a0950e3bca0d7ef44c6",
-    "url": "/Client-Side-Basketball-Website/static/media/ball.8be8053c.jpg"
+    "revision": "c15e08246ac4152208f64d61a1b6bfac",
+    "url": "/Client-Side-Basketball-Website/static/media/ball.c15e0824.webp"
   },
   {
     "revision": "f9716526710b1c54dcc08bbed07c9f88",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Client-Side-Basketball-Website/static/media/courses.ffaa70ae.jpg"
   },
   {
-    "revision": "132f14a11acd209a7958e11b355a6946",
-    "url": "/Client-Side-Basketball-Website/static/media/field.132f14a1.jpg"
+    "revision": "b248bd0b8050e9fad6683452122fa8b4",
+    "url": "/Client-Side-Basketball-Website/static/media/field.b248bd0b.webp"
   },
   {
     "revision": "0e8b95019c1e9de8dad06a7626ccaf81",
@@ -180,8 +180,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Client-Side-Basketball-Website/static/media/gif9.dbe5f8aa.gif"
   },
   {
-    "revision": "95da8175e6a142316ff8d4258a05b742",
-    "url": "/Client-Side-Basketball-Website/static/media/home.95da8175.jpg"
+    "revision": "080022a934edde37e7bc41240ecdbb24",
+    "url": "/Client-Side-Basketball-Website/static/media/home.080022a9.webp"
   },
   {
     "revision": "2a076a1f376ecee172f774aa1d10344a",
@@ -244,16 +244,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Client-Side-Basketball-Website/static/media/scoreboard.b6928a6e.ttf"
   },
   {
-    "revision": "088bcfc6a38daf4ffb14dda4dd11ca21",
-    "url": "/Client-Side-Basketball-Website/static/media/shooting.088bcfc6.jpg"
+    "revision": "cd4db30c1a834ce4e0b884215fd419d8",
+    "url": "/Client-Side-Basketball-Website/static/media/shooting.cd4db30c.webp"
   },
   {
-    "revision": "cbc5343f8bb1398c93138169fa2e1feb",
-    "url": "/Client-Side-Basketball-Website/static/media/stadium.cbc5343f.jpg"
+    "revision": "b7e955cb6323c7b98bf83574b3b85086",
+    "url": "/Client-Side-Basketball-Website/static/media/stadium.b7e955cb.webp"
   },
   {
-    "revision": "66a925c01e8f0d1e72ee57c6c8b99082",
-    "url": "/Client-Side-Basketball-Website/static/media/street_game.66a925c0.jpg"
+    "revision": "44cac923f81aec6b68c5ee80b282d760",
+    "url": "/Client-Side-Basketball-Website/static/media/street_game.44cac923.webp"
   },
   {
     "revision": "56e7705d45f9ff09f6bb916f62945c2a",

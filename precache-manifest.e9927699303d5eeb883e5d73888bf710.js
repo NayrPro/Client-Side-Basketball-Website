@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03fcf091ba565be074d0511348945d50",
+    "revision": "8cf08438b9da9f740b6a09bbdc0a1d65",
     "url": "/Client-Side-Basketball-Website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Client-Side-Basketball-Website/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "4e1ba0de09311d0516fb",
-    "url": "/Client-Side-Basketball-Website/static/css/main.06bf77f9.chunk.css"
+    "revision": "aa5f5c010e4477526413",
+    "url": "/Client-Side-Basketball-Website/static/css/main.ba424097.chunk.css"
   },
   {
     "revision": "a6e8e3f8868273d02515",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4e1ba0de09311d0516fb",
+    "revision": "aa5f5c010e4477526413",
     "url": "/Client-Side-Basketball-Website/static/js/main.a4fe3fa6.chunk.js"
   },
   {

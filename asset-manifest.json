@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Client-Side-Basketball-Website/static/css/main.06bf77f9.chunk.css",
+    "main.css": "/Client-Side-Basketball-Website/static/css/main.ba424097.chunk.css",
     "main.js": "/Client-Side-Basketball-Website/static/js/main.a4fe3fa6.chunk.js",
     "main.js.map": "/Client-Side-Basketball-Website/static/js/main.a4fe3fa6.chunk.js.map",
     "runtime-main.js": "/Client-Side-Basketball-Website/static/js/runtime-main.332527f2.js",
@@ -9,10 +9,10 @@
     "static/js/2.ee35dd28.chunk.js": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js",
     "static/js/2.ee35dd28.chunk.js.map": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js.map",
     "index.html": "/Client-Side-Basketball-Website/index.html",
-    "precache-manifest.f22dbebe301caeffc9945eef9fa313e1.js": "/Client-Side-Basketball-Website/precache-manifest.f22dbebe301caeffc9945eef9fa313e1.js",
+    "precache-manifest.e9927699303d5eeb883e5d73888bf710.js": "/Client-Side-Basketball-Website/precache-manifest.e9927699303d5eeb883e5d73888bf710.js",
     "service-worker.js": "/Client-Side-Basketball-Website/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/Client-Side-Basketball-Website/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.06bf77f9.chunk.css.map": "/Client-Side-Basketball-Website/static/css/main.06bf77f9.chunk.css.map",
+    "static/css/main.ba424097.chunk.css.map": "/Client-Side-Basketball-Website/static/css/main.ba424097.chunk.css.map",
     "static/js/2.ee35dd28.chunk.js.LICENSE.txt": "/Client-Side-Basketball-Website/static/js/2.ee35dd28.chunk.js.LICENSE.txt",
     "static/media/Navbar.css": "/Client-Side-Basketball-Website/static/media/EqualizeRegular-xXjr.9a2b22d0.ttf",
     "static/media/login.css": "/Client-Side-Basketball-Website/static/media/OldSport02AthleticNcv-E0gj.3c8d73b6.ttf",
@@ -74,7 +74,7 @@
     "static/js/runtime-main.332527f2.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.ee35dd28.chunk.js",
-    "static/css/main.06bf77f9.chunk.css",
+    "static/css/main.ba424097.chunk.css",
     "static/js/main.a4fe3fa6.chunk.js"
   ]
 }
